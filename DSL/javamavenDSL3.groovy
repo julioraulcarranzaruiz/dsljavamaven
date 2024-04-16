@@ -42,7 +42,7 @@ job('Job test Hola Mundo') {
     	}    
 	steps {
 		shell('''
-			echo "Hola Mundo Probando CI/CD....!!!!"
+			echo "Hola Mundo Probando CI/CD..!!!!"
 		''')
 	}
 }
